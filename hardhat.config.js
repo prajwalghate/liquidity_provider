@@ -27,7 +27,7 @@ module.exports = {
             // chainId: 31337,
             // gasPrice: 130000000000,
             forking: {
-                url: "https://eth-mainnet.g.alchemy.com/v2/613t3mfjTevdrCwDl28CVvuk6wSIxRPi",
+                url: "https://eth-mainnet.g.alchemy.com/v2/pPIxoT0UCmsseL4KGMY6fMxSyqWjzOIB",
             },
         },
         goerli: {
